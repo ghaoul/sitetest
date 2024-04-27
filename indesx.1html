@@ -7,7 +7,14 @@
 </head>
 <body>
 <h1>
-  hello team 
+ <ul>
+  <li>Home</li>
+  <li>about us</li>
+  <li>contact</li>
+  <li>logo/li>
+</ul>
 </h1>
+
+
 </body>
 </html>
